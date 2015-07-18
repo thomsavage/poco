@@ -1,0 +1,7 @@
+node_modules
+Foundation/*.suo
+Foundation/*.opensdf
+Foundation/*.sdf
+**/obj/
+lib/
+

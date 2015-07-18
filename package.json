@@ -1,0 +1,23 @@
+{
+  "name": "poco",
+  "version": "1.6.0-Tanium",
+  "description": "POCO C++ Library for Internal Use",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomsavage/poco"
+  },
+  "author": "",
+  "license": "Proprietary",
+  "homepage": "https://github.com/thomsavage/poco",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-msbuild": "^0.3.3"
+  }
+}
